@@ -26,3 +26,4 @@ C:\Users\atuma\OneDrive\Desktop\dotNetCore\GameStore\GameStore.Api\obj\Debug\net
 C:\Users\atuma\OneDrive\Desktop\dotNetCore\GameStore\GameStore.Api\obj\Debug\net9.0\GameStore.Api.pdb
 C:\Users\atuma\OneDrive\Desktop\dotNetCore\GameStore\GameStore.Api\obj\Debug\net9.0\GameStore.Api.genruntimeconfig.cache
 C:\Users\atuma\OneDrive\Desktop\dotNetCore\GameStore\GameStore.Api\obj\Debug\net9.0\ref\GameStore.Api.dll
+C:\Users\atuma\OneDrive\Desktop\dotNetCore\GameStore\GameStore.Api\obj\Debug\net9.0\GameStore.Api.sourcelink.json

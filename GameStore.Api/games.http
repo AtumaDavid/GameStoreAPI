@@ -2,3 +2,14 @@ GET http://localhost:5073/games
 
 ###
 GET http://localhost:5073/games/1
+
+###
+POST  http://localhost:5073/games
+Content-Type: application/json
+
+{
+    "name": "Red Dead Redemption",
+    "genre": "adult",
+    "price": 49.99,
+    "releaseDate": "2016-05-30"
+}
