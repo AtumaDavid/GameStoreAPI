@@ -13,3 +13,15 @@ Content-Type: application/json
     "price": 49.99,
     "releaseDate": "2016-05-30"
 }
+
+###
+PUT   http://localhost:5073/games/5
+Content-Type: application/json
+
+{
+    # "id": 1,
+    "name": "Street Fighter V Trbo",
+    "genre": "Fighting",
+    "price": 19.99,
+    "releaseDate": "1992-07-05"
+}
